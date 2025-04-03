@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy_data_ingestion",
+				"name": "Copy_data_ingestion_1",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
@@ -59,7 +59,7 @@
 			}
 		],
 		"annotations": [],
-		"lastPublishTime": "2025-04-03T08:13:37Z"
+		"lastPublishTime": "2025-04-03T09:09:14Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }
