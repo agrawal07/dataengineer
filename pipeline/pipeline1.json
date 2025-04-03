@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy_data_ingestion",
+				"name": "Copy_data_ingestion_1",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
